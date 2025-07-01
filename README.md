@@ -1,11 +1,8 @@
-Absolutely — here's a **fully rewritten, clean and modern README** for your MERN Expense Tracker app. Short, polished, and to the point:
-
----
 
 # 💸 Expense Tracker (MERN Stack)
 
 Track your income and expenses in real-time with a sleek full-stack app built using **MongoDB**, **Express**, **React**, and **Node.js**.
-
+> [Live Demo 🚀](https://expense-tracker-gwut.onrender.com/)
 ---
 
 ## ✨ Features
