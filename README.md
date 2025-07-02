@@ -108,7 +108,6 @@ node server.js
 
 ## 📄 License
 
-MIT
-
+ISC
 ---
 
